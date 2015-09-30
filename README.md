@@ -1,2 +1,2 @@
 # ExampleSource
-working m2 project source
+Sample Source
